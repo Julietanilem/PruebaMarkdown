@@ -1,1 +1,2 @@
-# Este es el titulo de mi proyecyo
+# Este es el titulo de mi proyecto
+## Este es un subtitulo
