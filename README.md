@@ -35,10 +35,11 @@ Vamos a editar el readme con `vim`
 int main(){
   return 0;
 }
-
+```
 Más:
 
 ```javascript
 funtion saludad(){
   console.log("Hola");
 }
+```
