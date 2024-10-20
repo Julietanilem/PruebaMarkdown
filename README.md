@@ -9,6 +9,6 @@
 
 <div style="width: 100%; display: grid; place-items: center;">
 
-![Julieta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julietanilem&langs_count=20&theme=chartreuse-dark&layout=donut)
+![Julieta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julietanilem&langs_count=14&theme=chartreuse-dark&layout=donut)
 
 </div>
